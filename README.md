@@ -34,6 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 
 https://i.imgur.com/mLAH1aV.gif
+![mLAH1aV](https://user-images.githubusercontent.com/82910305/221755466-cc37c875-ade2-4701-9ade-fa46b45aecf5.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
