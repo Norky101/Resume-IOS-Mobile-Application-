@@ -41,7 +41,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-: Autolayout and constraints was an issue throughout development as I had minimum foundational knowledge in the matter. Spent a lot of time learning about AutoLayout but was could not get it to work with my design.
+
+: Autolayout and constraints was an issue throughout development as I had minimum foundational knowledge in the matter. Spent a lot of time learning about AutoLayout but was could not get it to work with my design. Needed more time to solve the constraints issue.
 
 ## License
 
